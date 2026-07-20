@@ -1,0 +1,5 @@
+User-agent: *
+allow: /
+Disallow: /privacy.html
+
+Sitemap: https://yifengzhang.netlify.app/sitemap.xml
